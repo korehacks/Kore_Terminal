@@ -4,7 +4,7 @@
 [![Language](https://img.shields.io/badge/Language-Python%203-blue.svg)](https://python.org)
 
 <p align="center">
-  <img src="http://kore.unaux.com/logo.png" alt="KØRE Terminal Logo" width="220">
+  <img src="https://kore.unaux.com/koreterminal.png" alt="KØRE Terminal Logo" width="220">
 </p>
 
 **KØRE Terminal** is a simplified, hacker-themed command interface for Kali Linux that lets you create custom shortcuts for long commands, with automatic tool installation and full Linux command support.
