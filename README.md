@@ -27,7 +27,7 @@
 
 ```bash
 # Download KORE Terminal
-wget https://raw.githubusercontent.com/yourusername/kore-terminal/main/koreterminal.py
+git clone https://raw.github.com/korehacks/kore_terminal
 
 # Make it executable
-chmod +x koreterminal.py
+chmod +x ~/kore_terminal/koreterminal.py
